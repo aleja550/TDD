@@ -1,0 +1,8 @@
+.idea/
+*.user
+bin/
+obj/
+.vs/
+*.suo
+*.log
+.ds_store
